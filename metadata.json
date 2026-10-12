@@ -1,0 +1,6 @@
+{
+  "name": "Digital Library Management System",
+  "description": "Full-stack Digital Library Management System for colleges featuring book cataloging, search & filter, borrowing, returns, fine calculation, reservations, digital resources, notifications, role-based access, and Redux state management.",
+  "requestFramePermissions": [],
+  "majorCapabilities": []
+}
